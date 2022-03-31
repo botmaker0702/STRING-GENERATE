@@ -24,7 +24,7 @@ You can use me to generate pyrogram and telethon string session. Use the below b
     
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
+        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")]
         
 
 
